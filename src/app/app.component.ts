@@ -4,7 +4,7 @@ import { StatusBar } from 'ionic-native';
 
 import { TabsPage } from '../pages/tabs/tabs';
 
-import {BackandService} from '../providers/backandService'
+import {BackandService} from '../providers/backandService';
 
 @Component({
   template: `<ion-nav [root]="rootPage"></ion-nav>`
